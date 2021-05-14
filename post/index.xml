@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Theme Dream</title>
+    <link>https://zzlgithu.github.io/post/</link>
+    <description>Recent content in Posts on Hugo Theme Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 May 2021 11:18:23 +0800</lastBuildDate><atom:link href="https://zzlgithu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zzl</title>
+      <link>https://zzlgithu.github.io/post/zzl/</link>
+      <pubDate>Fri, 14 May 2021 11:18:23 +0800</pubDate>
+      
+      <guid>https://zzlgithu.github.io/post/zzl/</guid>
+      <description>Linux 环境高级编程  hello
+ </description>
+    </item>
+    
+  </channel>
+</rss>
